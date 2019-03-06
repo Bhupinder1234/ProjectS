@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+  background-color: White ;
+}
+
+h1 {
+  background-color: Blue;
+  font-family: arial;
+  font-size: 30px;
+}
+
+div {
+  background-color: grey;
+  font-family: arial;
+  font-size: 25px;
+}
+h2{
+	background-color: white;
+  font-family: arial;
+  font-size: 25px;
+ 
+}
+
+
+input{
+	text-align: center:
+}
